@@ -9,21 +9,22 @@ class Config:
     dry_run: bool = True
 
 EXTENSION_MAP = {
-    'Images' : [".jpeg", ".png"],
-    'Documents' : [".pdf", ".docx", ".exe"],
-    'Videos' : [".mp4", "..mkv"],
-    'Code' : [".py", ".html"],
-    'Archives' : [".zip"]
-      
+    'Images': [".jpeg", ".png"],
+    'Documents': [".pdf", ".docx", ".exe"],
+    'Videos': [".mp4", ".mkv"],
+    'Code': [".py", ".html"],
+    'Archives': [".zip"]
 }
 
-def get_category(file:Path):
-    for category , extensions in EXTENSION_MAP .items():
+def get_category(file: Path):
+    for category, extensions in EXTENSION_MAP.items():
         if file.suffix.lower() in extensions:
             return category
-        return "Others"
+    return "Others"
 
 def organize_files(config: Config):
+    print("Scanning:", config.source_dir)
+
     for file in config.source_dir.iterdir():
         if file.is_file():
             category = get_category(file)
@@ -39,10 +40,11 @@ def organize_files(config: Config):
                 shutil.move(str(file), str(destination))
                 print(f"Moved {file.name} -> {target_folder}")
 
-if __name__ =="__main__":
-    Config = Config(
+if __name__ == "__main__":
+    config = Config(
         source_dir=Path.home() / "Downloads",
         destination_dir=Path.home() / "Downloads_Organized",
         dry_run=False
     )
-    organize_files(Config)
+
+    organize_files(config)
