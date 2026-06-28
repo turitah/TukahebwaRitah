@@ -1,0 +1,13 @@
+2026-06-28 04:50:21,106 - INFO - Storage files initialized successfully.
+2026-06-28 04:51:29,135 - INFO - Added student with registration number 24/U/06546/EVE
+2026-06-28 05:07:56,904 - INFO - Added student with registration number 24/U/1101/PS
+2026-06-28 05:08:29,385 - INFO - User exited the student management system.
+2026-06-28 05:11:18,299 - INFO - Storage files initialized successfully.
+2026-06-28 05:13:22,184 - INFO - Added student with registration number 24/U/1203/EVE
+2026-06-28 05:14:39,585 - INFO - Searched for student with registration number 24/U/1101/PS
+2026-06-28 05:19:50,128 - INFO - Updated student with registration number 24/U/1203/EVE
+2026-06-28 05:21:08,348 - INFO - Added student with registration number 23/U/0067/PS
+2026-06-28 05:21:18,155 - WARNING - Invalid menu choice entered: 7
+2026-06-28 05:21:36,311 - INFO - Viewed all students.
+2026-06-28 05:23:10,179 - INFO - Deleted student with registration number 24/U/1203/EVE
+2026-06-28 05:23:40,895 - INFO - User exited the student management system.
