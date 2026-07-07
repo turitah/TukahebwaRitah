@@ -1,0 +1,201 @@
+TransactionID,Date,Region,ProductCategory,CustomerType,Sales,Profit
+TX0001,6/16/2026,Eastern,Electronics,Wholesale,4924,359.44
+TX0002,2/12/2026,Central,Electronics,Retail,3283,944.32
+TX0003,3/1/2026,Northern,Food,Online,4049,967.1
+TX0004,6/3/2026,Western,Household Products,Online,4331,434.57
+TX0005,1/21/2026,Western,Household Products,Retail,3283,340.48
+TX0006,3/16/2026,Northern,Clothing,Retail,1088,153.77
+TX0007,5/8/2026,Central,Beverages,Retail,4158,958.09
+TX0008,6/17/2026,Western,Household Products,Wholesale,1090,302.28
+TX0009,5/16/2026,Western,Household Products,Retail,302,54.12
+TX0010,5/18/2026,Western,Beverages,Wholesale,4821,1094.26
+TX0011,2/18/2026,Eastern,Electronics,Online,4036,281.58
+TX0012,5/15/2026,Eastern,Beverages,Online,3567,205.36
+TX0013,3/29/2026,Northern,Household Products,Retail,4316,1279.7
+TX0014,5/28/2026,Northern,Beverages,Online,3694,471.53
+TX0015,5/29/2026,Western,Beverages,Retail,4771,363.61
+TX0016,1/20/2026,Western,Household Products,Wholesale,3351,905.95
+TX0017,2/20/2026,Northern,Clothing,Retail,3713,457.2
+TX0018,4/1/2026,Western,Electronics,Retail,518,150.69
+TX0019,3/1/2026,Eastern,Food,Wholesale,3486,417.57
+TX0020,5/7/2026,Eastern,Household Products,Retail,4540,417.92
+TX0021,4/12/2026,Central,Electronics,Retail,1819,103.62
+TX0022,4/12/2026,Northern,Clothing,Wholesale,2919,629.86
+TX0023,4/29/2026,Eastern,Beverages,Wholesale,3684,323.91
+TX0024,3/10/2026,Eastern,Food,Wholesale,781,70.86
+TX0025,5/28/2026,Northern,Electronics,Online,449,60.52
+TX0026,2/14/2026,Eastern,Beverages,Wholesale,2418,397.43
+TX0027,6/4/2026,Eastern,Clothing,Wholesale,3747,452.78
+TX0028,3/21/2026,Northern,Clothing,Retail,3023,181.34
+TX0029,6/13/2026,Eastern,Clothing,Wholesale,4747,400.79
+TX0030,1/10/2026,Western,Beverages,Online,531,68.7
+TX0031,5/29/2026,Western,Household Products,Wholesale,3328,496.96
+TX0032,6/11/2026,Northern,Clothing,Retail,2438,481.78
+TX0033,2/2/2026,Northern,Food,Wholesale,902,60.18
+TX0034,5/18/2026,Northern,Beverages,Wholesale,1221,182.45
+TX0035,2/3/2026,Eastern,Household Products,Retail,2775,630.55
+TX0036,2/28/2026,Central,Food,Retail,1926,395.76
+TX0037,4/28/2026,Central,Household Products,Online,1792,402.67
+TX0038,5/4/2026,Western,Food,Wholesale,4474,1308.25
+TX0039,3/19/2026,Northern,Food,Online,1254,176.2
+TX0040,1/19/2026,Eastern,Electronics,Wholesale,3598,188.62
+TX0041,3/3/2026,Northern,Electronics,Online,1772,440.92
+TX0042,5/28/2026,Central,Household Products,Online,227,48.18
+TX0043,6/8/2026,Western,Beverages,Wholesale,1631,125.2
+TX0044,6/21/2026,Eastern,Clothing,Retail,908,180.66
+TX0045,4/1/2026,Eastern,Food,Online,2862,359.61
+TX0046,4/30/2026,Eastern,Clothing,Retail,4181,398.89
+TX0047,4/30/2026,Central,Clothing,Wholesale,140,40.04
+TX0048,5/6/2026,Eastern,Beverages,Online,1129,126.74
+TX0049,4/9/2026,Central,Food,Wholesale,2666,407.76
+TX0050,5/16/2026,Western,Household Products,Wholesale,2373,656.99
+TX0051,6/29/2026,Eastern,Clothing,Wholesale,1170,346.48
+TX0052,2/28/2026,Western,Clothing,Wholesale,1145,310.35
+TX0053,5/6/2026,Central,Electronics,Retail,3271,231.66
+TX0054,3/16/2026,Northern,Beverages,Online,3381,725
+TX0055,4/17/2026,Western,Food,Online,4185,1036.06
+TX0056,5/28/2026,Northern,Electronics,Wholesale,4875,1216.76
+TX0057,2/21/2026,Western,Household Products,Wholesale,1491,185.25
+TX0058,4/13/2026,Eastern,Food,Wholesale,3168,472.63
+TX0059,2/10/2026,Eastern,Food,Retail,4766,794.98
+TX0060,4/6/2026,Eastern,Household Products,Wholesale,312,28.32
+TX0061,4/21/2026,Northern,Beverages,Retail,4965,732.96
+TX0062,5/1/2026,Eastern,Food,Retail,4507,1181.98
+TX0063,2/23/2026,Eastern,Household Products,Retail,3912,445.45
+TX0064,3/2/2026,Northern,Household Products,Retail,1798,213.18
+TX0065,1/30/2026,Eastern,Household Products,Online,2369,477.5
+TX0066,5/9/2026,Western,Food,Wholesale,4886,1241.64
+TX0067,3/27/2026,Central,Household Products,Retail,2172,278.51
+TX0068,1/5/2026,Northern,Electronics,Wholesale,1046,243.87
+TX0069,5/24/2026,Eastern,Beverages,Online,3141,538.01
+TX0070,4/15/2026,Central,Clothing,Wholesale,1605,372.69
+TX0071,1/12/2026,Western,Clothing,Online,2574,733.98
+TX0072,1/24/2026,Northern,Electronics,Wholesale,135,34.23
+TX0073,5/12/2026,Northern,Clothing,Online,2720,671.81
+TX0074,1/14/2026,Northern,Clothing,Wholesale,100,5.13
+TX0075,1/5/2026,Northern,Beverages,Online,1883,375.84
+TX0076,1/1/2026,Central,Food,Retail,548,90.32
+TX0077,1/15/2026,Northern,Food,Online,4061,684.57
+TX0078,1/16/2026,Northern,Electronics,Online,641,147.53
+TX0079,3/23/2026,Northern,Electronics,Retail,376,88.43
+TX0080,1/9/2026,Eastern,Food,Retail,2213,112.58
+TX0081,4/18/2026,Western,Beverages,Wholesale,4518,1307.76
+TX0082,6/13/2026,Northern,Food,Retail,1208,258.59
+TX0083,5/5/2026,Central,Food,Online,4241,238.15
+TX0084,6/3/2026,Central,Food,Wholesale,4402,1179.83
+TX0085,2/4/2026,Western,Household Products,Wholesale,3694,908.57
+TX0086,3/13/2026,Western,Electronics,Retail,1598,358.41
+TX0087,3/15/2026,Northern,Clothing,Online,4476,1088.91
+TX0088,5/10/2026,Central,Food,Retail,4567,805.2
+TX0089,3/30/2026,Western,Household Products,Retail,4324,1136.91
+TX0090,5/7/2026,Western,Beverages,Wholesale,2364,428.8
+TX0091,3/6/2026,Central,Clothing,Wholesale,4961,918.72
+TX0092,1/21/2026,Western,Electronics,Online,3788,899.24
+TX0093,4/23/2026,Eastern,Beverages,Retail,2366,627.03
+TX0094,3/14/2026,Central,Beverages,Online,4090,1013.69
+TX0095,5/28/2026,Central,Food,Wholesale,2146,627.45
+TX0096,3/13/2026,Central,Clothing,Wholesale,434,41.94
+TX0097,3/2/2026,Western,Household Products,Retail,4998,986.74
+TX0098,3/12/2026,Western,Household Products,Online,4774,423.1
+TX0099,1/9/2026,Eastern,Clothing,Retail,488,90.35
+TX0100,6/17/2026,Central,Food,Wholesale,3878,780.97
+TX0101,5/30/2026,Central,Beverages,Retail,3630,691.64
+TX0102,6/9/2026,Northern,Electronics,Retail,1317,247.25
+TX0103,4/3/2026,Western,Electronics,Online,479,28.72
+TX0104,6/5/2026,Western,Electronics,Wholesale,1885,531.24
+TX0105,3/20/2026,Western,Household Products,Wholesale,1079,167.27
+TX0106,6/29/2026,Western,Household Products,Wholesale,840,108.6
+TX0107,1/24/2026,Western,Beverages,Wholesale,2736,143.72
+TX0108,2/12/2026,Central,Clothing,Online,787,110.6
+TX0109,5/15/2026,Northern,Clothing,Wholesale,2236,391.27
+TX0110,3/5/2026,Western,Beverages,Wholesale,4401,567.64
+TX0111,6/29/2026,Central,Household Products,Wholesale,2040,104.08
+TX0112,4/19/2026,Central,Clothing,Retail,2119,315.59
+TX0113,4/4/2026,Central,Clothing,Online,4196,510.68
+TX0114,6/1/2026,Eastern,Household Products,Online,1018,81.01
+TX0115,6/3/2026,Western,Beverages,Retail,4331,325.17
+TX0116,5/26/2026,Northern,Beverages,Retail,438,88.55
+TX0117,3/30/2026,Eastern,Household Products,Wholesale,4854,471.52
+TX0118,2/20/2026,Central,Beverages,Retail,2239,644.56
+TX0119,1/9/2026,Eastern,Beverages,Retail,4587,296.61
+TX0120,4/2/2026,Eastern,Beverages,Wholesale,1241,335.81
+TX0121,1/14/2026,Western,Beverages,Online,2399,648.55
+TX0122,4/19/2026,Eastern,Food,Retail,4632,865.64
+TX0123,5/29/2026,Western,Beverages,Retail,1178,350.1
+TX0124,2/9/2026,Western,Beverages,Wholesale,237,48.31
+TX0125,4/16/2026,Central,Clothing,Online,1692,391.07
+TX0126,5/2/2026,Eastern,Clothing,Wholesale,452,102.96
+TX0127,1/14/2026,Central,Electronics,Online,201,25.74
+TX0128,5/20/2026,Eastern,Beverages,Online,4852,1377.04
+TX0129,2/17/2026,Central,Clothing,Wholesale,4138,587.69
+TX0130,1/8/2026,Eastern,Clothing,Online,485,31.63
+TX0131,6/27/2026,Central,Clothing,Online,1963,261.6
+TX0132,4/19/2026,Eastern,Food,Retail,4423,965.82
+TX0133,2/21/2026,Eastern,Beverages,Online,4748,798.94
+TX0134,5/3/2026,Central,Household Products,Wholesale,572,61.52
+TX0135,4/18/2026,Northern,Beverages,Retail,4806,734.04
+TX0136,4/19/2026,Eastern,Electronics,Online,2217,529.3
+TX0137,3/5/2026,Eastern,Beverages,Online,332,97.36
+TX0138,1/21/2026,Northern,Household Products,Wholesale,618,148.67
+TX0139,2/8/2026,Northern,Beverages,Online,1082,319.84
+TX0140,3/15/2026,Northern,Food,Wholesale,1851,325.06
+TX0141,5/3/2026,Central,Clothing,Online,4322,834.87
+TX0142,4/9/2026,Western,Clothing,Wholesale,1671,246.25
+TX0143,4/15/2026,Northern,Electronics,Wholesale,4100,866.92
+TX0144,1/25/2026,Western,Beverages,Retail,4703,1332.67
+TX0145,5/30/2026,Northern,Beverages,Wholesale,3018,305.2
+TX0146,4/4/2026,Northern,Electronics,Wholesale,1808,377.14
+TX0147,4/8/2026,Central,Beverages,Wholesale,716,181.02
+TX0148,5/7/2026,Northern,Beverages,Wholesale,3962,282.16
+TX0149,4/23/2026,Eastern,Food,Online,56,9.82
+TX0150,5/11/2026,Eastern,Clothing,Retail,3527,494.29
+TX0151,2/19/2026,Northern,Beverages,Wholesale,480,55.06
+TX0152,5/16/2026,Northern,Household Products,Online,2565,766.33
+TX0153,5/20/2026,Central,Food,Retail,1325,104.33
+TX0154,5/6/2026,Central,Beverages,Wholesale,2344,153.49
+TX0155,1/2/2026,Eastern,Household Products,Online,2390,202.83
+TX0156,4/23/2026,Eastern,Household Products,Wholesale,2642,763.37
+TX0157,5/15/2026,Western,Beverages,Wholesale,764,203.22
+TX0158,3/23/2026,Eastern,Electronics,Wholesale,3744,883.16
+TX0159,1/18/2026,Eastern,Food,Wholesale,4723,712.17
+TX0160,2/2/2026,Eastern,Clothing,Wholesale,583,111.19
+TX0161,2/11/2026,Eastern,Beverages,Wholesale,2618,440.6
+TX0162,4/27/2026,Northern,Household Products,Online,1215,359.3
+TX0163,4/7/2026,Western,Clothing,Online,1961,499.62
+TX0164,2/4/2026,Central,Beverages,Wholesale,2217,501.81
+TX0165,6/2/2026,Western,Clothing,Wholesale,2541,318.83
+TX0166,4/2/2026,Northern,Electronics,Online,95,17.9
+TX0167,6/11/2026,Eastern,Electronics,Online,1399,177.58
+TX0168,1/28/2026,Western,Food,Online,4320,664.96
+TX0169,6/6/2026,Eastern,Clothing,Wholesale,2771,388.71
+TX0170,6/7/2026,Central,Food,Online,4017,1197.86
+TX0171,5/24/2026,Northern,Electronics,Online,2068,539.89
+TX0172,3/9/2026,Central,Beverages,Wholesale,4087,1213.48
+TX0173,5/1/2026,Eastern,Beverages,Wholesale,115,7.43
+TX0174,5/28/2026,Eastern,Beverages,Wholesale,3435,856.09
+TX0175,3/16/2026,Eastern,Food,Wholesale,1969,284.85
+TX0176,3/19/2026,Central,Electronics,Online,1314,99.61
+TX0177,1/8/2026,Central,Household Products,Wholesale,4623,1056.23
+TX0178,1/22/2026,Western,Electronics,Retail,1374,355.69
+TX0179,5/8/2026,Western,Household Products,Wholesale,2389,381.52
+TX0180,4/13/2026,Central,Electronics,Wholesale,281,82.79
+TX0181,4/28/2026,Central,Electronics,Retail,1597,313.04
+TX0182,1/30/2026,Eastern,Food,Retail,3952,821.14
+TX0183,5/22/2026,Eastern,Beverages,Retail,2799,282.94
+TX0184,2/3/2026,Western,Electronics,Wholesale,4375,691.34
+TX0185,3/22/2026,Western,Household Products,Retail,996,152.5
+TX0186,4/19/2026,Central,Food,Retail,2812,438.2
+TX0187,3/12/2026,Eastern,Electronics,Wholesale,2487,495.54
+TX0188,1/20/2026,Western,Electronics,Retail,3516,358.84
+TX0189,1/2/2026,Central,Beverages,Online,444,68.67
+TX0190,4/29/2026,Eastern,Beverages,Online,188,10.39
+TX0191,5/15/2026,Northern,Beverages,Online,4722,623.6
+TX0192,2/11/2026,Central,Electronics,Retail,4666,1202.81
+TX0193,1/24/2026,Central,Household Products,Online,2105,399.44
+TX0194,1/31/2026,Eastern,Electronics,Retail,279,82.69
+TX0195,1/11/2026,Eastern,Household Products,Wholesale,3589,619.09
+TX0196,5/17/2026,Eastern,Household Products,Online,4360,361.9
+TX0197,5/23/2026,Eastern,Clothing,Wholesale,2138,143.04
+TX0198,1/12/2026,Northern,Clothing,Online,3530,744.03
+TX0199,6/14/2026,Western,Household Products,Retail,3470,792.78
+TX0200,3/18/2026,Western,Beverages,Retail,4063,1013.02
